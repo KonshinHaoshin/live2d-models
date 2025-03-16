@@ -1,0 +1,22 @@
+{
+	"type":"Live2D Expression",
+	"fade_in":500,
+	"fade_out":500,
+	"params":[
+		{"id":"PARAM_ANGLE_Y","val":30},
+		{"id":"PARAM_ANGLE_Z","val":28.08},
+		{"id":"PARAM_FLUFFY","val":1},
+		{"id":"PARAM_EYE_R_SMILE","val":1},
+		{"id":"PARAM_EYE_L_SMILE","val":1},
+		{"id":"PARAM_EYE_BALL_Y","val":1},
+		{"id":"PARAM_EYE_FORM","val":1},
+		{"id":"PARAM_EYE_SCALE","val":-1},
+		{"id":"PARAM_EYE_HIGHLIGHT","val":1},
+		{"id":"PARAM_TEAR","val":1},
+		{"id":"PARAM_MOUTH_FORM_01","val":-0.92},
+		{"id":"PARAM_MOUTH_OPEN_Y","val":1},
+		{"id":"PARAM_MOUTH_SCALE","val":1},
+		{"id":"PARAM_CHEEK","val":1},
+		{"id":"PARAM_CHEEK2","val":1}
+	]
+}
